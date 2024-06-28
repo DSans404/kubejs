@@ -1,0 +1,13 @@
+{
+  "parent": "kubejs:block/machine/frame_template",
+  "textures": {
+    "particle": "kubejs:block/machine/enderium/enderium_machine_top",
+    "down": "kubejs:block/machine/enderium/enderium_machine_bottom",
+    "up": "kubejs:block/machine/enderium/enderium_machine_top",
+    "north": "kubejs:block/machine/enderium/enderium_machine_side",
+    "east": "kubejs:block/machine/enderium/enderium_machine_side",
+    "south": "kubejs:block/machine/enderium/enderium_machine_side",
+    "west": "kubejs:block/machine/enderium/enderium_machine_side",
+    "inner": "kubejs:block/machine/enderium/enderium_machine_inner"
+  }
+}

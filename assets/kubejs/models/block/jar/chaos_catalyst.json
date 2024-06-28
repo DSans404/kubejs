@@ -1,0 +1,7 @@
+{
+  "parent": "kubejs:block/jar/substrate",
+  "textures": {
+    "particle": "block/glass",
+    "0": "kubejs:block/chaos_glass"
+  }
+}

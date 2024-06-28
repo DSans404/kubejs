@@ -1,0 +1,13 @@
+{
+  "parent": "kubejs:block/machine/frame_template",
+  "textures": {
+    "particle": "kubejs:block/casing/invar/invar_casing_top",
+    "down": "kubejs:block/casing/invar/invar_casing_top",
+    "up": "kubejs:block/casing/invar/invar_casing_top",
+    "north": "kubejs:block/casing/invar/invar_casing_side",
+    "east": "kubejs:block/casing/invar/invar_casing_side",
+    "south": "kubejs:block/casing/invar/invar_casing_side",
+    "west": "kubejs:block/casing/invar/invar_casing_side",
+    "inner": "kubejs:block/casing/invar/invar_casing_side"
+  }
+}

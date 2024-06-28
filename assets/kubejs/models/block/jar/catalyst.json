@@ -1,0 +1,7 @@
+{
+  "parent": "kubejs:block/jar/substrate",
+  "textures": {
+    "particle": "minecraft:block/glass",
+    "0": "kubejs:block/catalyst_glass"
+  }
+}

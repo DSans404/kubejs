@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "kubejs:block/casing/invar/invar_casing_top",
+    "side": "kubejs:block/casing/invar/invar_casing_side"
+  }
+}

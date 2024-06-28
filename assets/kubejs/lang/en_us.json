@@ -1,0 +1,28 @@
+{
+    "itemGroup.kubejs.kubejs": "Create - Tech | Item",
+    
+    "item.kubejs.number_0": "0",
+    "item.kubejs.number_1": "1",
+    "item.kubejs.number_2": "2",
+    "item.kubejs.number_3": "3",
+    "item.kubejs.number_4": "4",
+    "item.kubejs.number_5": "5",
+    "item.kubejs.number_6": "6",
+    "item.kubejs.number_7": "7",
+    "item.kubejs.number_8": "8",
+    "item.kubejs.number_9": "9",
+
+    "item.kubejs.plus"    : "+",
+    "item.kubejs.minus"   : "-",
+    "item.kubejs.multiply": "×",
+    "item.kubejs.divide"  : "÷",
+    "item.kubejs.nan"     : "§k0",
+
+    "item.kubejs.three_cast"   : "Integer Cast (3)",
+    "item.kubejs.eight_cast"   : "Integer Cast (8)",
+    "item.kubejs.plus_cast"    : "Operator Cast (+)",
+    "item.kubejs.minus_cast"   : "Operator Cast (-)",
+    "item.kubejs.multiply_cast": "Operator Cast (×)",
+    "item.kubejs.divide_cast"  : "Operator Cast (÷)"
+    
+}
